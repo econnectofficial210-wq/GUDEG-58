@@ -1,0 +1,6 @@
+{
+  "name": "KASIR GUDEG 58 - Skylight Plaza Magelang",
+  "description": "Sistem Kasir POS Modern, Manajemen Menu & Dashboard Analitik Perkembangan Penjualan Warung Gudeg 58 Skylight Plaza Kota Magelang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
